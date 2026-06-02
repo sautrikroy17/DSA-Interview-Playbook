@@ -10,7 +10,7 @@ Before you begin grinding LeetCode, you need to make sure your core logic and da
 
 Before diving into the patterns below, it is **highly recommended** that you brush up on your core logic using Microsoft's official, 100% free developer training hub.
 
-👉 **[Access the Official Microsoft Developer Training Hub Here (DSA Fundamentals & Logic)](https://learn.microsoft.com/en-us/training/?wt.mc_id=studentamb_514816)**
+👉 **[Access the Official Microsoft Developer Training Hub Here (DSA Fundamentals & Logic)](https://learn.microsoft.com/training/?wt.mc_id=studentamb_514816)**
 
 *(Do not skip this step if your core fundamentals are rusty. Top companies care more about your underlying logic than your ability to memorize LeetCode solutions.)*
 
