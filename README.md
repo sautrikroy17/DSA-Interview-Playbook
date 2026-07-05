@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=sautrikroy17&project=DSA-Interview-Playbook&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=sautrikroy17&project=DSA-Interview-Playbook&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=sautrikroy17&project=DSA-Interview-Playbook&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=sautrikroy17&project=DSA-Interview-Playbook&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=sautrikroy17&project=DSA-Interview-Playbook&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=sautrikroy17&project=DSA-Interview-Playbook&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=sautrikroy17&project=DSA-Interview-Playbook&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=sautrikroy17&project=DSA-Interview-Playbook&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=sautrikroy17&project=DSA-Interview-Playbook&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=sautrikroy17&project=DSA-Interview-Playbook&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=sautrikroy17&project=DSA-Interview-Playbook&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=sautrikroy17&project=DSA-Interview-Playbook&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=sautrikroy17&project=DSA-Interview-Playbook&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=sautrikroy17&project=DSA-Interview-Playbook&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=sautrikroy17&project=DSA-Interview-Playbook&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=sautrikroy17&project=DSA-Interview-Playbook&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=sautrikroy17&project=DSA-Interview-Playbook&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=sautrikroy17&project=DSA-Interview-Playbook&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=sautrikroy17&project=DSA-Interview-Playbook&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=sautrikroy17&project=DSA-Interview-Playbook&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=sautrikroy17&project=DSA-Interview-Playbook&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # 🚀 The 80/20 DSA Interview Playbook
 
 This is not a list of 500 random problems. This is the **highly curated, zero-BS** collection of the exact Data Structures & Algorithmic patterns that top tech companies (Microsoft, Amazon, Google, Meta, Apple) actually test in their technical rounds.
